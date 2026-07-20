@@ -79,9 +79,13 @@ Mensagens e Usuário:
 
 **Experimente pessoalmente seguindo estes passos:**
 
-**1 -** Baixe os pacotes
+Feito em JAVA VERSION 25.0.3
 
-**2 -** Conduza-se para a classe 'PlayExecution'.
+**1 -** Requer MySQL 
 
-**3 -** Clique em 'Play' e faça a sua própria interação.
+**2 -** Baixe os pacotes
+
+**3 -** Conduza-se para a classe 'PlayExecution'.
+
+**4 -** Clique em 'Play' e faça a sua própria interação.
 
