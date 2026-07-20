@@ -11,7 +11,7 @@ public class Message {
                 
                         1 - Common
                         2 - VIP
-                        3 - Executive
+                        3 - Queng
                 
                 """);
         messages.add("""
