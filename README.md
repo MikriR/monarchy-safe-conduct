@@ -42,7 +42,7 @@ Cronograma:
 - Desenvolvimento da lógica de segurança.
 - Implementação do Banco de Dados.
 
-**18/07 a 02/08** - Testes Rigorosos
+**18/07 a 20/07** - Testes Rigorosos
 
 O período foi extremamente dedicado à realização de testes de toda a lógica do sistema, correções e prevenções para bugs e refatoração.
 
