@@ -45,7 +45,7 @@ public class SystemHeart {
             Thread.currentThread().interrupt();
         }
 
-        if (DataBase.codeVerifying(User.testing())) {
+        if (DataBase.codeVerifying(User.userTest())) {
             Message.exhibitMessages(6);
         } else {
             Message.exhibitMessages(7);
