@@ -1,6 +1,7 @@
 package br.com.models;
 
 import br.com.date.DataBase;
+import br.com.message.Message;
 
 import java.security.SecureRandom;
 
@@ -28,9 +29,10 @@ public class Ticket {
         return specialDetails;
     }
 
-    public StringBuilder noRepetition(String description) {
+    public StringBuilder noRepetition() {
         StringBuilder createCode;
         boolean saving = false;
+        String description = Message.getTexts().get(2);
 
         do {
             createCode = codeGenerator();
