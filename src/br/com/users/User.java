@@ -8,14 +8,14 @@ public class User extends Message {
     static Scanner datesReader = new Scanner(System.in);
 
     public static int userInteraction() {
-        System.out.println(Message.getMessages().getFirst());
+        System.out.println(Message.getTexts().getFirst());
         int choice = datesReader.nextInt();
         datesReader.nextLine();
         return choice;
     }
 
-    public static String testing() {
-        System.out.println(Message.getMessages().get(1));
+    public static String userTest() {
+        System.out.println(Message.getTexts().get(1));
         String choice = datesReader.nextLine();
         return choice;
     }
